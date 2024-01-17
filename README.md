@@ -1,4 +1,7 @@
 ### Hi there 👋
+-👨‍💻 Learning Java (Spring Boot) and Python
+-📚 Studying IT on UE Katowice
+-📫 kamil.tajak@gmail.com
 
 <!--
 **Taiq-UE/Taiq-UE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
