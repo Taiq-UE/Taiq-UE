@@ -1,5 +1,5 @@
 ### Hi there 👋  
-👨‍💻 Learning Java (Spring Boot) and C 
+👨‍💻 Learning Java (Spring Boot) and C   
 📚 Studying IT on UE Katowice  
 📫 kamil.tajak@gmail.com  
 
