@@ -1,5 +1,5 @@
 ### Hi there 👋  
-👨‍💻 C++ dev 
+👨‍💻 C++ dev  
 📚 Studying IT on UE Katowice  
 📫 kamil.tajak@gmail.com  
 
