@@ -1,5 +1,5 @@
 ### Hi there 👋  
-👨‍💻 Learning Java (Spring Boot), C and ML  
+👨‍💻 C++ dev 
 📚 Studying IT on UE Katowice  
 📫 kamil.tajak@gmail.com  
 
