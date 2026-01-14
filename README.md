@@ -1,6 +1,6 @@
 ### Hi there 👋  
 👨‍💻 C++ dev  
-📚 Studying IT on UE Katowice  
+📚 Studying IT
 📫 kamil.tajak@gmail.com  
 
 <!--
